@@ -1,5 +1,22 @@
 # Goals:
 
+5 May 2018
+
+## Jason
+
+* Have simple wireframe for dev77 blog initial MVP
+
+## Karma
+
+* Catch up with work
+* 2 paragraphs on what was learned for Dev77
+
+## Next Meeting
+
+* Push Karma's 2 paragraphs to Dev77 repo
+
+---
+
 ## Jason
 
 * Focusing my goal
