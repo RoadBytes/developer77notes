@@ -1,5 +1,27 @@
 # Goals:
 
+10 May 2018
+
+## Jason
+
+* Deploy staging app (simple)
+
+## Karma
+
+* Don't fall behind
+* Write definitions for PANDAS, and Numpy
+* Chat with cousin about web development
+
+## Both
+
+* Try to make a time limit on activities
+
+## Next Meeting
+
+* TBD
+
+---
+
 5 May 2018
 
 ## Jason
