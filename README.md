@@ -1,51 +1,53 @@
 # Goals:
 
-10 May 2018
+18 May 2018
 
 ## Jason
+
+### This week
+
+* Finish jQuery course
+* Get Trello board
+
+### Last week
 
 * Deploy staging app (simple)
+  - learning jQuery
+  - Need to learn this first before having a site show
 
 ## Karma
+
+### This week
+
+* Read excerpts from course
+* Work on data project
+  - big project is coming up
+
+### Last week
 
 * Don't fall behind
-* Write definitions for PANDAS, and Numpy
-* Chat with cousin about web development
+  - Is behind, will work on getting on caught up
 
-## Both
+* Write definitions for PANDAS, and Numpy
+  - Forgot
+
+* Chat with cousin about web development
+  - incognito, busy
 
 * Try to make a time limit on activities
+  - Pomodoro's kind of worked
+  - efficiency vs hours worked
+
+* Burn down list from course
+  - good for small things
+  - taking too long
+  - didn't enjoy it
+  - couldn't get through list
+  - project took 2 days, can't time box
+  - data munging/wrangling was easier to stay engaged
 
 ## Next Meeting
 
-* TBD
+* See calendar
 
 ---
-
-5 May 2018
-
-## Jason
-
-* Have simple wireframe for dev77 blog initial MVP
-
-## Karma
-
-* Catch up with work
-* 2 paragraphs on what was learned for Dev77
-
-## Next Meeting
-
-* Push Karma's 2 paragraphs to Dev77 repo
-
----
-
-## Jason
-
-* Focusing my goal
-  * have a tentative plan of action to work on for May to July
-
-## Karma
-
-* Finish as much as he can of Unit 1
-  * Take breaks based on burndown chart progress.
-  * See capstone project first and work on it as he's going through course.
